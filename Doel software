@@ -1,0 +1,38 @@
+# Doel Social App
+
+**Doel Social** is a multipurpose social media platform that combines the features of **YouTube**, **Facebook**, **Amazon**, and **TikTok** — all in one app.
+
+---
+
+## 🚀 Key Features
+
+- 🎥 **Video Sharing** (like YouTube)  
+- 💬 **Posts & Comments** (like Facebook)  
+- 🛒 **E-commerce Integration** (like Amazon)  
+- 📱 **Short Videos** (like TikTok)  
+- 💰 **Ad Monetization with Revenue Sharing**  
+- 🧑‍⚖️ **User Rights & Earning System**
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚙️ **Backend:** Node.js, Express.js  
+- 🗄️ **Database:** MongoDB Atlas  
+- 🔐 **Authentication:** Firebase Authentication, JWT  
+- 💻 **Frontend:** React (Coming Soon)
+
+---
+
+## 📱 App Platforms
+
+- ✅ Android (Under Development)  
+- 🔜 iOS (Upcoming)  
+- 🌐 Web Version (Coming Soon)
+
+---
+
+## 👨‍💻 Project Status
+
+Project under active development by **Doel Software and Apps**  
+Stay tuned for more updates!
